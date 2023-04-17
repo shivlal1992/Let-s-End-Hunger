@@ -1,0 +1,3 @@
+
+        alert("thank for registration")
+      
